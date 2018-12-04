@@ -2,7 +2,7 @@
 
 ## Required Package
 - Python3
-- PyTorch 0.4.1
+- PyTorch >= 0.4.1
 - OpenCV
 - Imgaug (https://github.com/aleju/imgaug)
 - Pillow-SIMD (https://github.com/uploadcare/pillow-simd)
