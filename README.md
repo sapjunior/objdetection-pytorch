@@ -1,5 +1,4 @@
 # YOLOv3 Implementation in PyTorch (WIP)
-Research qual 
 
 ## Required Package
 - Python3
